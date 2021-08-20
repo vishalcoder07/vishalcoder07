@@ -9,7 +9,7 @@
 
 💬 Ask me about React web, Javascript or anything related to latest tech.
 
-💻 Skills : Core java , javaScript , ReactJs , C ,Cpp , Firebase db ,MongoDB
+💻 Skills : Core java , javaScript , React-js , C ,Cpp , Firebase db ,MongoDB
 
 ## 🌐 Connect with me :
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-gaikwad-277970208/)
