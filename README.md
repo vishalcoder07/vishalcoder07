@@ -62,7 +62,6 @@ Hello! I'm Vishal Gaikwad, a passionate Computer Engineering student at JSPM's B
 ---
 
 ## Contact Information
-- **Phone**: +91 91729 53008  
 - **Email**: [vishal2003gaikwad@gmail.com](mailto:vishal2003gaikwad@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/vishal-gaikwad-277970208](https://linkedin.com/in/vishal-gaikwad-277970208)  
 - **Location**: Pune, Maharashtra, India  
